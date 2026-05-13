@@ -1,6 +1,12 @@
 # KDE-Snow-Globe
 
-## Run install.sh
+## Extract
+
+```
+tar -xf Snow-Globe-tar.gz
+```
+
+## Run
 
 ```
 bash installer.sh
