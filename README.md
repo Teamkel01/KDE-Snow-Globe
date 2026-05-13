@@ -3,7 +3,7 @@
 ## Extract
 
 ```
-tar -xf Snow-Globe-tar.gz
+tar -xf Snow-Globe.tar.gz
 ```
 
 ## Run
